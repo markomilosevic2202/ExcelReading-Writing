@@ -17,6 +17,7 @@ public class ExcelTable {
     public static List<Firma> listaFirmi = new ArrayList<>();
 
     public static void main(String[] args) {
+        System.out.println("Hello");
 
         procitajTabelu();
         napraviObjekteFirma();
